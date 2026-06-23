@@ -9,3 +9,4 @@ Make soup
 optimise code
 Write a book
 make shopping list
+Finish GUI

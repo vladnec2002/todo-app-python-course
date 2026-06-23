@@ -1,12 +1,15 @@
-learn Rust
+Learn Rust
 Repair car engine
-play
+Play Dirt rally
 Fix PC
-fix the car
+Fix the car
 Go to work
 do leetcode
 Make soup
 optimise code
 Write a book
-make shopping list
+Make shopping list
 Finish GUI
+Add list to GUI
+Make burgers
+Upgrade PC

@@ -1,0 +1,5 @@
+temperatures
+20
+19
+36
+4
